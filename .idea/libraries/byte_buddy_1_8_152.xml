@@ -1,0 +1,25 @@
+<component name="libraryTable">
+  <library name="byte-buddy-1.8.152">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Desktop/selenium/libs/byte-buddy-1.8.15.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/selenium/libs/commons-exec-1.3.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/selenium/libs/guava-25.0-jre.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/selenium/libs/okhttp-3.11.0.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/selenium/libs/okio-1.14.0.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/selenium/client-combined-3.141.59.jar!/" />
+      <root url="file://$PROJECT_DIR$/.." />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Desktop/selenium/client-combined-3.141.59-sources.jar!/" />
+      <root url="file://$PROJECT_DIR$/../Gittigidiyor.comTestExample-main/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../Gittigidiyor.comTestExample-main/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../JavaOdev/src/main/java" />
+      <root url="file://$PROJECT_DIR$/src/main/java" />
+      <root url="file://$PROJECT_DIR$/src/test/java" />
+      <root url="file://$PROJECT_DIR$/.." />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/.." recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/.." recursive="false" type="SOURCES" />
+  </library>
+</component>
